@@ -375,9 +375,7 @@ Align repository branch protection configuration with written security policies
 ```
 
 
-```
-GitHub Advanced Security Administration
-```
+## Domain 7: GitHub Advanced Security Administration
 ```
 Explain how GitHub Advanced Security features are enabled on GitHub Enterprise Server
 ```
