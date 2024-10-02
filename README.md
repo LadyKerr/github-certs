@@ -1,4 +1,5 @@
 # GitHub Certifications Guide 🚀
+github certification exam https://examregistration.github.com/overview
 
 GitHub certifications are here! 🎉 See the official blog post here: https://github.blog/2024-01-08-github-certifications-are-generally-available/ 
 
